@@ -117,6 +117,18 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Francis",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
